@@ -69,6 +69,7 @@ import { HihoCoderProblemParser } from './problem/HihoCoderProblemParser';
 import { HITOnlineJudgeProblemParser } from './problem/HITOnlineJudgeProblemParser';
 import { HrbustOnlineJudgeProblemParser } from './problem/HrbustOnlineJudgeProblemParser';
 import { HydroProblemParser } from './problem/HydroProblemParser';
+import { ITSAProblemParser } from './problem/ITSAProblemParser';
 import { JutgeProblemParser } from './problem/JutgeProblemParser';
 import { KattisProblemParser } from './problem/KattisProblemParser';
 import { LibraryCheckerOldProblemParser } from './problem/LibraryCheckerOldProblemParser';
@@ -194,6 +195,8 @@ export const parsers: Parser[] = [
 
   new HydroProblemParser(),
   new HydroContestParser(),
+
+  new ITSAProblemParser(),
 
   new JutgeProblemParser(),
 
