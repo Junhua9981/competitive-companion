@@ -1,5 +1,10 @@
 # Competitive Companion
 
+## What's the difference? 和原版有甚麼差?  
+目前增加可以解析ITSA的parser  
+可以使用在新版ITSA題目上面(就是有在新視窗開啟測資的題目才可使用)  
+其他題目的測資位置太不一定，之後看看有沒有辦法做到再做更新。  
+
 [link-cws]: https://chrome.google.com/webstore/detail/competitive-companion/cjnmckjndlpiamhfimnnjmnckgghkjbl
 [link-amo]: https://addons.mozilla.org/en-US/firefox/addon/competitive-companion/
 
